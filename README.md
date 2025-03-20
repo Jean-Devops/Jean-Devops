@@ -92,9 +92,9 @@ Passionate about art and technology, especially music and robotics, some of my h
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jean-Devops&layout=compact&bg_color=262931&border_color=30A3DC&title_color=7da7f7&text_color=FFF)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Devopi&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/kurokagami/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Devops&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/kurokagami/github-readme-stats) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jean-Devop&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jean-Devops&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <details align="left">
   <summary></summary> 
